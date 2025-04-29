@@ -1,0 +1,5 @@
+DISCORD_BOT_TOKEN = "YOUR_DISCORD_BOT_TOKEN"
+
+# Model Hyperparameters
+LEARNING_RATE = 5e-5
+EPOCHS = 5
